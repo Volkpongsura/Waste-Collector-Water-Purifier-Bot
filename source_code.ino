@@ -1,7 +1,7 @@
 #define BLYNK_PRINT Serial
 
 #define BLYNK_TEMPLATE_ID "TMPL65suP-UJ-"
-#define BLYNK_TEMPLATE_NAME "Project2"
+#define BLYNK_TEMPLATE_NAME "Project1"
 #define BLYNK_AUTH_TOKEN "lv4hd8Hz5O34MpWaYm6FM9_QYtWdo0jk"
 
 
